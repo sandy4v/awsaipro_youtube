@@ -1,0 +1,9 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+*.tfvars
+*.auto.tfvars
+override.tf
+override.tf.json
+.aws/credentials
+.aws/config
